@@ -1,5 +1,5 @@
 # SQL
-Assignments
+Assignment
 Dated on 15th August, 2022
 # Krithika Devi Chandran
   2211570
